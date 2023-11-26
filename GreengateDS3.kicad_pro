@@ -55,10 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "clearance|125786961|69322315|1b1dfa7b-a967-4ce8-9abd-e5d635494817|9a6edeba-bd71-4852-88d2-230addece99c",
-        "isolated_copper|140278039|59582685|9a6edeba-bd71-4852-88d2-230addece99c|00000000-0000-0000-0000-000000000000"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
