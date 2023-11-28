@@ -11527,6 +11527,9 @@
     (property "Datasheet" "~" (at 257.81 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser" "279-CFR100J47R" (at 257.81 69.85 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid f38d3e24-a60c-49d1-be56-80623743c469))
     (pin "2" (uuid 9c7a7859-f76d-438c-bb5e-9d153647c1d4))
     (instances
