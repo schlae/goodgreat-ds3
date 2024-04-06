@@ -12551,7 +12551,7 @@
     (property "Reference" "C11" (at 299.72 326.39 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "480pF" (at 299.72 328.93 0)
+    (property "Value" "470pF" (at 299.72 328.93 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Passive:CAPAC200" (at 308.61 327.66 0)
